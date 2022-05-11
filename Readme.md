@@ -1,10 +1,14 @@
+# Docker Docs provided training
+
+docs is here https://docs.docker.com/get-started/
+
 ## Docker overview
-- [] Docker overview
+- [X] Docker overview
 ## Get Docker
-- [] Get Docker
+- [X] Get Docker
 ## Get started
-- [] Part 1: Getting started
-- [] Part 2: Sample application
+- [X] Part 1: Getting started
+- [X] Part 2: Sample application
 - [] Part 3: Update the application
 - [] Part 4: Share the application
 - [] Part 5: Persist the DB
